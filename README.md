@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yukesh Dhakal</h1>
-<h3 align="center">A passionate fullstack developer from Kathmandu, Nepal. In my free time, I like to play games and design things.</h3>
+<h3 align="center">A passionate web developer from Kathmandu, Nepal. In my free time, I like to play games and design things.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhakalyukesh&label=Profile%20views&color=0e75b6&style=flat" alt="dhakalyukesh" /> </p>
 
