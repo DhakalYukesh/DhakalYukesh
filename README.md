@@ -14,6 +14,6 @@ I'm Yukesh, a passionate web developer from Kathmandu, Nepal.
 + a lot more :D
 
 ## Contact
-- [![website](https://img.shields.io/badge/website-informational)]([https://vidura.dev](https://yukeshdhakal.vercel.app/))
+- [@website](https://yukeshdhakal.vercel.app/)
 - [@yukeshdhakal](https://www.linkedin.com/in/yukeshdhakal/) on LinkedIn
 - [@trxster](https://discord.com/users/327800426529423361) on Discord
