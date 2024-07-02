@@ -2,9 +2,8 @@
 I'm Yukesh, a passionate web developer from Kathmandu, Nepal.
 
 ## About Me
-- I like people, software, and games.
+- I like socializing, software, and games.
 - I’m currently improving my skills on typescript and nextjs.
-- I enjoy helping others.
 
 ## Skills
 - 👨‍💻 TypeScript, JavaScript, Java, etc...
