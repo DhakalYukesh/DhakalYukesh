@@ -1,5 +1,5 @@
 ## Hey! 👋
-I'm Yukesh, a passionate web developer from Kathmandu, Nepal.
+I'm Yukesh, a web developer from Kathmandu, Nepal.
 
 ## About Me
 - I like socializing, software, and games.
@@ -10,7 +10,7 @@ I'm Yukesh, a passionate web developer from Kathmandu, Nepal.
 - ⚙️ React, Nextjs, Laravel
 - 👁️ SASS, CSS, Tailwind
 - 💽 MySQL, SQL, Mongo
-+ a lot more :D
++ a lot more
 
 ## Contact
 - [@website](https://yukeshdhakal.vercel.app/)
