@@ -13,5 +13,5 @@ I'm Yukesh, a web developer from Kathmandu, Nepal.
 + a lot more
 
 ## Contact
-- [@website](https://yukeshdhakal.vercel.app/)
+- Email: yukeshdhakal42@gmail.com
 - [@yukeshdhakal](https://www.linkedin.com/in/yukeshdhakal/) on LinkedIn
