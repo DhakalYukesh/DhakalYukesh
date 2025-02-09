@@ -9,7 +9,7 @@ I'm Yukesh, a web developer from Kathmandu, Nepal.
 - 👨‍💻 TypeScript, JavaScript, Java, etc...
 - ⚙️ React, Nextjs, Nestjs
 - 👁️ SASS, CSS, Tailwind
-- 💽 MySQL, SQL, Mongo, Postgres
+- 💽 MySQL, MongoDb, Postgres
 + a lot more
 
 ## Contact
